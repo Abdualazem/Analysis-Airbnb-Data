@@ -2,11 +2,12 @@
 
 - [Installation](#installation)
 - [Motivation](#motivation)
-- [File Discription](#file-discription)
+- [Code Discription](#file-discription)
 - [Results](#results)
 - [Acknowledgements](#acknowledgements)
 
 # Installation
+I use Python version 3.11.9 for this project. The required packages were highlighted in each cell. 
 
 # Motivation
 I'll be working with the Reviews and Listing data from Airbnb for [Seattle](https://www.kaggle.com/datasets/airbnb/seattle) and [Boston](https://www.kaggle.com/datasets/airbnb/boston) sites downloaded from [Kaggle](https://www.kaggle.com) to try to answer the following questions:
@@ -17,10 +18,11 @@ I'll be working with the Reviews and Listing data from Airbnb for [Seattle](http
 
 Positive reviews might highlight cleanliness, responsiveness, or convenience, while negative reviews might mention noise or poor communication. Price, amenities, location, and host responsiveness might significantly impact review scores. Prices and demand increase during peak tourist seasons or significant events.
 
-# File Discription 
+# Code Discription 
+The code file is a Jupyter NoteBook with deatails to easly follow up with the progress of the code. 
 
 # Results
-The plots can be found in the `plot` directory which are discussed at the blog post [here]().
+The plots can be found in the `plot` directory which are discussed at the blog post [here](https://abdualazem-fadol.medium.com/exploring-airbnb-trends-a-comparative-analysis-of-boston-and-seattle-a6b5d09c2f78).
 
 # Acknowledgements
 Feel free to use the code discussed here. 
