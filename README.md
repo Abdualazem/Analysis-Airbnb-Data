@@ -19,7 +19,7 @@ I'll be working with the Reviews and Listing data from Airbnb for [Seattle](http
 Positive reviews might highlight cleanliness, responsiveness, or convenience, while negative reviews might mention noise or poor communication. Price, amenities, location, and host responsiveness might significantly impact review scores. Prices and demand increase during peak tourist seasons or significant events.
 
 # Code Discription 
-The code file is a Jupyter NoteBook with deatails to easly follow up with the progress of the code. 
+The code file is a Jupyter NoteBook with deatails to easly follow up with the progress of the code. The data used in this analysis can be found in the `data/airbnb/` directory.
 
 # Results
 The plots can be found in the `plot` directory which are discussed at the blog post [here](https://abdualazem-fadol.medium.com/exploring-airbnb-trends-a-comparative-analysis-of-boston-and-seattle-a6b5d09c2f78).
