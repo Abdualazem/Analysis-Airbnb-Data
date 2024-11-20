@@ -25,5 +25,4 @@ The code file is a Jupyter NoteBook with deatails to easly follow up with the pr
 The plots can be found in the `plot` directory which are discussed at the blog post [here](https://abdualazem-fadol.medium.com/exploring-airbnb-trends-a-comparative-analysis-of-boston-and-seattle-a6b5d09c2f78).
 
 # Acknowledgements
-Feel free to use the code discussed here. 
-This analysis uses the [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle) and [Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston) datasets provided on Kaggle. These datasets were contributed by Airbnb and include detailed information about listings, reviews, and calendar data. I would like to thank the contributors and [Kaggle](https://www.kaggle.com) for making these datasets publicly available, which made this project possible.
+ This analysis uses the [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle) and [Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston) datasets provided on Kaggle. These datasets were contributed by Airbnb and include detailed information about listings, reviews, and calendar data. I would like to thank the contributors and [Kaggle](https://www.kaggle.com) for making these datasets publicly available, which made this project possible.
